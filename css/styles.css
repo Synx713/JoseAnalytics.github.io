@@ -10970,3 +10970,7 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+:root {
+  --bs-primary-rgb: 30, 144, 255;
+}
